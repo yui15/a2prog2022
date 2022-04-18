@@ -1,6 +1,6 @@
 .stack-work/
 a2prog2022.cabal
-*.log
+# *.log
 core
 *.hi
 *.o
